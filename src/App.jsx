@@ -197,7 +197,7 @@ function App() {
             <button type="submit" className="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-2 rounded transition-colors duration-200">Send</button>
           </form>
           <div className="mt-8 text-gray-400 text-center">
-            Or email me at <a href="mailto:your.email@example.com" className="text-blue-400 underline">your.email@example.com</a>
+            Or email me at <a href="mailto:sounak0402moitra@gmail.com" className="text-blue-400 underline">sounak0402moitra@gmail.com</a>
           </div>
         </section>
       </main>
