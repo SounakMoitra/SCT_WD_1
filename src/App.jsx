@@ -117,7 +117,7 @@ function App() {
           </div>
         </section>
         <div className="flex justify-center mt-4 mb-12">
-          <a href="https://github.com/your-github-username" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-blue-400 hover:text-blue-300 text-lg font-semibold transition-colors border-2 border-blue-400 rounded-lg px-4 py-2">
+          <a href="https://github.com/SounakMoitra" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-blue-400 hover:text-blue-300 text-lg font-semibold transition-colors border-2 border-blue-400 rounded-lg px-4 py-2">
             Browse more
             <img src="/GitHub.png" alt="GitHub" className="h-7 w-7 bg-white rounded-full" />
           </a>
