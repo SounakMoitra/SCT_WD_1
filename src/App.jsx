@@ -50,7 +50,7 @@ function App() {
       <Navbar />
       <main className="pt-20 bg-gradient-to-br from-gray-900 via-gray-800 to-black min-h-screen text-white">
         <section id="about" className="max-w-3xl mx-auto py-16 px-4 text-center">
-          <img src="/src/assets/DevPic.png" alt="Sounak Moitra" className="mx-auto mb-4 w-44 h-44 object-cover rounded-full shadow-lg border-4 border-gray-700" />
+          <img src="/DevPic.png" alt="Sounak Moitra" className="mx-auto mb-4 w-44 h-44 object-cover rounded-full shadow-lg border-4 border-gray-700" />
           <h2 className="text-4xl font-extrabold mb-2">Sounak Moitra</h2>
           <Typewriter />
           <p className="text-gray-300 text-lg mt-6">
