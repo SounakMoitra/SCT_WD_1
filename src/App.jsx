@@ -132,6 +132,8 @@ function App() {
                 <img src="/TypeScript.png" alt="TypeScript" className="h-8 w-8 tech-icon" />
                 <img src="/Python.png" alt="Python" className="h-8 w-8 tech-icon" />
                 <img src="/Java.png" alt="Java" className="h-8 w-8 tech-icon" />
+                <img src="/HTML5.png" alt="HTML" className="h-8 w-8 tech-icon" />
+                <img src="/CSS3.png" alt="CSS" className="h-8 w-8 tech-icon" />
               </div>
             </div>
             <div className="bg-gray-800 rounded-lg shadow-lg p-6">
